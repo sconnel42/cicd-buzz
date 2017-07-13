@@ -1,4 +1,4 @@
-# cicd-buzz
+# cicd-buzz [![Build Status](https://travis-ci.org/sconnel42/cicd-buzz.svg?branch=master)](https://travis-ci.org/sconnel42/cicd-buzz) [![BCH compliance](https://bettercodehub.com/edge/badge/sconnel42/cicd-buzz?branch=master)](https://bettercodehub.com/)
 
 A simple repository to show the results of a CI/CD pipeline. The pipeline consists of:
 * Github
