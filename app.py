@@ -2,7 +2,7 @@ import os, signal
 from flask import Flask, render_template
 from buzz import generator
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='templates')
 
 signal.signal(signal.SIGINT, lambda s, f: os._exit(0))
 

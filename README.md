@@ -8,3 +8,4 @@ A simple repository to show the results of a CI/CD pipeline. The pipeline consis
 * Heroku
 
 To see the tutorial for this pipeline, go [here](https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b)
+To see the final result of this pipeline, go [here](https://tranquil-bayou-80615.herokuapp.com/)
