@@ -1,6 +1,6 @@
 # cicd-buzz
 
-A simple program used to create a CI/CD pipeline. The pipeline consists of:
+A simple repository to show the results of a CI/CD pipeline. The pipeline consists of:
 * Github
 * TravisCI
 * BetterCode
